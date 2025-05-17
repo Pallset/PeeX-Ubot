@@ -45,8 +45,8 @@
 ```bash
 pkg update && pkg upgrade
 pkg install python git -y
-git clone https://github.com/pallset/peex-userbot
-cd peex-userbot
+git clone https://github.com/pallset/peex-ubot
+cd peex-ubot
 pip install -r requirements.txt
-python main.py
+python start.py
 Security Key = PeeX-Userbot
